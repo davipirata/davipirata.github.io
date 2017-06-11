@@ -1,5 +1,13 @@
 {
-    "articles": {},
+    "articles": {
+        "4bc69c7e-ad3a-40e3-b867-933faf0ce674": {
+            "body": "Yay!",
+            "signature": "\r\n-----BEGIN PGP SIGNED MESSAGE-----\r\nHash: SHA256\r\n\r\n1497147819100\r\n\r\nThis is a post\r\n\r\nbunch of stuff\r\n\r\nYay!\r\n-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v2.5.4\r\nComment: http://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJZPKmrCRA6Y60tX7SNkwAAaw0P/0EmWhPiqO5QShcDBT3C\r\nEN5TNg7y3doschEYI8WfjEH4oDhubQI1jQmfnJLqslNFAd113i82Z9Yo8m7v\r\nzACfKFukSBFJp0/aL90GUBOM+2SAPnc7K/kly+67OIcskaa2kVARUueVH/X3\r\n311APErv3dOL1IabRLluqun1/gGgXEGGIW67LAwJIQ6iLjujnubX7OKZ7zw1\r\nd+HXUgobWJcuNPModwLJWBbBjIoQ1LUIUiXDT4oZAJO+3qc7+dwEWMzQBmjZ\r\ndr7/3j/20Rn/1DPPQ5OY9YSNdxhFPQWoAegJkGs9A5DELTlI0W7gPUBFotO4\r\nK7loplloiIp24rXlEWblHBcKLkEaMy7l2jIF1o2+FyOWs8h6Lah5CVyur9Q5\r\n4+WW1+nUM/dbcbkNCvhZ0gBLzu9H5KRWaWG8P7W97M6ucj4Shge+qmlYbNvU\r\nKiXFMIzzwumfI+aT9GfjbvYzEylhF4wsLMzBo9YkHbVHvHiOOk2eZGymtCn4\r\nzy0e8rC12jayy+iR2GJgSjwEO7ytjHh4E/88ka93qzuJ+GsUWqWVSDGWK7zf\r\nVPnEZnOIlFy9qRbYtj2FtWDpt7wIZAeTdpDgtrKNZutjfFkkNpofcsxWC7jH\r\nu8H0dR4KV0fZBKL4YlOd6vjjsqCG+LExSI40H3E20rvgRs7usrzTLMwJxII5\r\nM/Kz\r\n=H5jg\r\n-----END PGP SIGNATURE-----\r\n",
+            "summary": "bunch of stuff",
+            "timestamp": "1497147819100",
+            "title": "This is a post"
+        }
+    },
     "card": {
         "country": "USA",
         "email": "davi.pirata@opmbx.org",
@@ -11,6 +19,13 @@
     "events": {},
     "notes": {},
     "pages": {},
-    "people": {},
+    "people": {
+        "401529d7-c52d-4b13-b5d6-53ca1acf2fee": {
+            "email": "mailto:angelo@lahacker.net",
+            "key": "-----BEGIN PGP PUBLIC KEY BLOCK-----\r\nVersion: OpenPGP.js v2.5.4\r\nComment: http://openpgpjs.org\r\n\r\n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\r\n=Ytdz\r\n-----END PGP PUBLIC KEY BLOCK-----\r\n\r\n",
+            "name": "Angelo Gladding",
+            "url": "https://angelogladding.github.io/"
+        }
+    },
     "rel-me": {}
 }
